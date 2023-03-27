@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: "AlexandriaFLF";
+}
+
+.font-size {
+  font-size: 2.5rem;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+@font-face {
+  font-family: "AlexandriaFLF";
+  src: url("../src/assets/Alexandriaflf-Rpvl.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AlexandriaFLF";
+  src: url("../src/assets/Alexandriaflf-Rpvl.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
